@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Assma-el-khair
 - 👀 I’m interested in Artificial Intelligence and Data science
-- 🌱 I’m currently a senior AI student on an exchange semester in POSTECH in South Korea
+- 🌱 I’m currently a senior AI student on an exchange semester at POSTECH in South Korea
 - 💞️ I’m looking for an internship 
 - 📫 How to reach me : elkhairassma@gmail.com
 - 😄 gender: female
